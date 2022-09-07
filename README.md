@@ -1,3 +1,3 @@
-# Bitrieal App
+# Bitriel App
 
 Selendra web app
