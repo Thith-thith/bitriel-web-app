@@ -1,0 +1,59 @@
+[
+  {
+    "validator_address": "seYqWeHPi3roJkYRskY6xt1w5Uwh7F1EMHak29YkqsTpXu9Qb",
+    "validator_name": "GAMA",
+    "APY": "900%",
+    "commision": "5%",
+    "is_staking": true,
+    "earned": "200.080022 SEL",
+    "locked": "200000.001011 SEL",
+    "total_stake": "1000000000 SEL",
+    "owner_stake": "900000000 SEL",
+    "other_stake": "910000000 SEL",
+    "members": "9",
+    "point": "1200"
+  },
+  {
+    "validator_address": "seXPXpZ2gRzTwduXWHngtT8F2X9azCwKDoLphmTY73aTwPfuU",
+    "validator_name": "BETA",
+    "APY": "900%",
+    "commision": "5%",
+    "is_staking": false,
+    "earned": "0 SEL",
+    "locked": "0 SEL",
+    "total_stake": "1000000000 SEL",
+    "owner_stake": "900000000 SEL",
+    "other_stake": "910000000 SEL",
+    "members": "12",
+    "point": "1200"
+  },
+
+  {
+    "validator_address": "seacT4MopmCXmanAWzdWBi46F4zaTvnGg2m895XKqxVHMy9BA",
+    "validator_name": "ALPHA",
+    "APY": "900%",
+    "commision": "5%",
+    "is_staking": false,
+    "earned": "0 SEL",
+    "locked": "0 SEL",
+    "total_stake": "1000000000 SEL",
+    "owner_stake": "900000000 SEL",
+    "other_stake": "910000000 SEL",
+    "members": "24",
+    "point": "1200"
+  },
+  {
+    "validator_address": "sebVtd3eFjSyXQ9fiugVTYF2vuksQhfMJmyLTUVgtuhVXGBod",
+    "validator_name": "DELTA",
+    "APY": "900%",
+    "commision": "5%",
+    "is_staking": false,
+    "earned": "0 SEL",
+    "locked": "0 SEL",
+    "total_stake": "1000000000 SEL",
+    "owner_stake": "900000000 SEL",
+    "other_stake": "910000000 SEL",
+    "members": "99",
+    "point": "1200"
+  }
+]

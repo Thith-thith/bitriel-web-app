@@ -1,0 +1,38 @@
+[
+  {
+    "pool_name": "GAMA",
+    "state": true,
+    "point": "12000000 SEL",
+    "is_joined": true,
+    "claimable": "200.080022 SEL",
+    "nominees": "9",
+    "members": "19"
+  },
+  {
+    "pool_name": "ALPHA",
+    "state": true,
+    "point": "12000000 SEL",
+    "is_joined": false,
+    "claimable": "200.080022 SEL",
+    "nominees": "2",
+    "members": "9"
+  },
+  {
+    "pool_name": "BETA",
+    "state": true,
+    "point": "12000000 SEL",
+    "is_joined": false,
+    "claimable": "200.080022 SEL",
+    "nominees": "2",
+    "members": "2"
+  },
+  {
+    "pool_name": "DELTA",
+    "state": true,
+    "point": "12000000 SEL",
+    "is_joined": false,
+    "claimable": "200.080022 SEL",
+    "nominees": "2",
+    "members": "6"
+  }
+]

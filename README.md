@@ -1,2 +1,3 @@
-# bitriel-web-app
+# Bitriel App
+
 Bitriel web app

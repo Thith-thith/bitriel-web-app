@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "PI-VERSE",
+    "token": "pi token",
+    "desc": "A 3D Metaverse of Everything",
+    "fun_rasing": "$ 2000000",
+    "participants": "69",
+    "type": "land sale",
+    "logo": "../../../assets/sel-icon.svg",
+    "background": "../../../assets/background/back.jpg"
+  },
+  {
+    "id": "2",
+    "name": "SALA Digital",
+    "token": "tbong token",
+    "desc": "A 3D Metaverse of Everything",
+    "fun_rasing": "$ 2000000",
+    "participants": "69",
+    "type": "token sale",
+    "logo": "../../../assets/sel-icon.svg",
+    "background": "../../../assets/background/back3.jpg"
+  },
+  {
+    "id": "3",
+    "name": "KOOMPI FiFi",
+    "token": "sel token",
+    "desc": "A 3D Metaverse of Everything",
+    "fun_rasing": "$ 2000000",
+    "participants": "69",
+    "type": "token sale",
+    "logo": "../../../assets/sel-icon.svg",
+    "background": "../../../assets/background/back2.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Smallworld",
+    "token": "sel token",
+    "desc": "A 3D Metaverse of Everything",
+    "fun_rasing": "$ 2000000",
+    "participants": "69",
+    "type": "token sale",
+    "logo": "../../../assets/sel-icon.svg",
+    "background": "../../../assets/background/back4.jpg"
+  }
+]
